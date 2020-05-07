@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.tivion" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="true" android:icon="@drawable/app_icon" android:label="Tivion" android:largeHeap="true" android:name=".SketchApplication" android:theme="@style/AppTheme">
+        <activity android:configChanges="orientation|screenSize" android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:name=".RctiActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".SctvActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".AntvActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".InewsActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".RtvActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".Trans7Activity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".TranstvActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".GlobalActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".TvoneActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".MncActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:name=".LebihActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".DebugActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

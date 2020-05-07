@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="webview1" />
+    <item type="id" name="linear2" />
+    <item type="id" name="textview2" />
+    <item type="id" name="linear3" />
+    <item type="id" name="textview3" />
+    <item type="id" name="linear6" />
+    <item type="id" name="linear7" />
+    <item type="id" name="linear8" />
+    <item type="id" name="linear9" />
+    <item type="id" name="linear10" />
+    <item type="id" name="rcti" />
+    <item type="id" name="mnctv" />
+    <item type="id" name="sctv" />
+    <item type="id" name="linear11" />
+    <item type="id" name="global" />
+    <item type="id" name="tvone" />
+    <item type="id" name="trans7" />
+    <item type="id" name="linear13" />
+    <item type="id" name="transtv" />
+    <item type="id" name="antv" />
+    <item type="id" name="rtv" />
+    <item type="id" name="linear14" />
+    <item type="id" name="inews" />
+    <item type="id" name="button1" />
+</resources>

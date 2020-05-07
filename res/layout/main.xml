@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:background="#ffcddc39" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="#fff9fbe7" android:id="@id/textview2" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TV ONLINE INDONESIA" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:background="#ffffffff" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0sp" android:textColor="#ff827717" android:id="@id/textview3" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TV online Indonesia diambil dari website &quot;vidio.com&quot; yg dijadikan aplikasi gratis oleh Annisa Puspitasari xrpl1 smk4 menggunakan sketchware yang merupakan semacam scratch." />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear6" android:background="#ffafb42b" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear7" android:background="#ffc0ca33" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear8" android:background="#ffd4e157" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear9" android:background="#ffe6ee9c" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear10" android:background="#ffcddc39" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="40.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/rcti" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RCTI" />
+        <Button android:textSize="40.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/mnctv" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MNCTV" />
+        <Button android:textSize="40.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/sctv" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SCTV" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear11" android:background="#ffd4e157" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="30.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/global" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GlobalTv" />
+        <Button android:textSize="30.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/tvone" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TVONE" />
+        <Button android:textSize="30.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/trans7" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Trans7" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear13" android:background="#ffdce775" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="40.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/transtv" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TransTv" />
+        <Button android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/antv" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ANTV" />
+        <Button android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/rtv" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RTV" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear14" android:background="#ffcddc39" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="60.0sp" android:textStyle="bold" android:textColor="#ffe91e63" android:id="@id/inews" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="inews" />
+        <Button android:textSize="12.0sp" android:textColor="#ffe91e63" android:id="@id/button1" android:background="@android:color/transparent" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="lihat lebih channel?" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/trans7.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: sfwAOngI+bDH1W6NC9WtCFcAdtY=
+
+Name: res/layout/main.xml
+SHA1-Digest: UgqhDPLihsEhY5LBjQJy1lcSYLA=
+
+Name: res/layout/mnc.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/rtv.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/transtv.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: i4OdPPjqLSVXDkw15Gu9FwcgSO8=
+
+Name: res/layout/sctv.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/rcti.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: 06XUdsw6uWoRc1yuJzNBGBr4eQY=
+
+Name: res/layout/antv.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/inews.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: classes.dex
+SHA1-Digest: wxrL53pw0tn8MtyxdWiHmbwVbx0=
+
+Name: res/layout/lebih.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/global.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
+Name: res/layout/tvone.xml
+SHA1-Digest: 2IgWbRhru8IPAd8agtht9R3ztpk=
+
